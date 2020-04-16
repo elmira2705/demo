@@ -2,8 +2,5 @@ some song sould be here
 and here too
 and here some another 2 lines 
 that have been added at the github 
-----------------------------------
-
-second coup
-
-third coup
+--
+this is features comment
